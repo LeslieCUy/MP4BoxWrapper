@@ -1,0 +1,16 @@
+D:\PSoC\Subtitles\Subtitles\bin\Debug\Subtitles.exe.config
+D:\PSoC\Subtitles\Subtitles\bin\Debug\Subtitles.exe
+D:\PSoC\Subtitles\Subtitles\bin\Debug\Subtitles.pdb
+D:\PSoC\Subtitles\Subtitles\obj\Debug\Subtitles.csprojResolveAssemblyReference.cache
+D:\PSoC\Subtitles\Subtitles\obj\Debug\Subtitles.exe
+D:\PSoC\Subtitles\Subtitles\obj\Debug\Subtitles.pdb
+D:\PSoC\Subtitles\Subtitles\bin\Debug\MP4BoxWrapper.dll
+D:\PSoC\Subtitles\Subtitles\bin\Debug\MP4BoxWrapper.pdb
+D:\PSoC\Subtitles\Subtitles\bin\Debug\js.dll
+D:\PSoC\Subtitles\Subtitles\bin\Debug\libeay32.dll
+D:\PSoC\Subtitles\Subtitles\bin\Debug\mp4box.exe
+D:\PSoC\Subtitles\Subtitles\bin\Debug\msvcr100.dll
+D:\PSoC\Subtitles\Subtitles\bin\Debug\ssleay32.dll
+C:\Users\Leslie\Source\Repos\MP4BoxWrapper\Subtitles\bin\Debug\Subtitles.exe.config
+C:\Users\Leslie\Source\Repos\MP4BoxWrapper\Subtitles\obj\Debug\Subtitles.exe
+C:\Users\Leslie\Source\Repos\MP4BoxWrapper\Subtitles\obj\Debug\Subtitles.pdb
